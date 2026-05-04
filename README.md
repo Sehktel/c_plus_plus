@@ -1,4 +1,4 @@
-# c_plus_plus
+# c_stack
 C++ structures and algorithms
 
 Простой алгоритм, который показывает работу стека.
